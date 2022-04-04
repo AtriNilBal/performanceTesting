@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1648398199119,2869,GET_CALL,200,OK,Sample Thread Group 1-1,,true,,0,0,5,5,null,0,0,0
+1648398199119,2870,GET_CALL,200,OK,Sample Thread Group 1-4,,true,,0,0,5,5,null,0,0,0
+1648398199119,2869,GET_CALL,200,OK,Sample Thread Group 1-2,,true,,0,0,5,5,null,0,0,0
+1648398199119,2870,GET_CALL,200,OK,Sample Thread Group 1-5,,true,,0,0,5,5,null,0,0,0
+1648398199119,2870,GET_CALL,200,OK,Sample Thread Group 1-3,,true,,0,0,5,5,null,0,0,0
+1648486136635,2685,GET_CALL,200,OK,Sample Thread Group 1-2,,true,,0,0,5,5,null,0,0,0
+1648486136635,2687,GET_CALL,200,OK,Sample Thread Group 1-3,,true,,0,0,5,5,null,0,0,0
+1648486136635,2687,GET_CALL,200,OK,Sample Thread Group 1-4,,true,,0,0,5,5,null,0,0,0
+1648486136635,2686,GET_CALL,200,OK,Sample Thread Group 1-5,,true,,0,0,5,5,null,0,0,0
+1648486136635,2686,GET_CALL,200,OK,Sample Thread Group 1-1,,true,,0,0,5,5,null,0,0,0
+1648971725484,2820,GET_CALL,500,NO,Sample Thread Group 1-5,,true,,0,0,5,5,null,0,0,0
+1648971725484,2820,GET_CALL,500,NO,Sample Thread Group 1-3,,true,,0,0,5,5,null,0,0,0
+1648971725484,2820,GET_CALL,500,NO,Sample Thread Group 1-1,,true,,0,0,5,5,null,0,0,0
+1648971725484,2820,GET_CALL,500,NO,Sample Thread Group 1-4,,true,,0,0,5,5,null,0,0,0
+1648971725484,2820,GET_CALL,500,NO,Sample Thread Group 1-2,,true,,0,0,5,5,null,0,0,0
